@@ -1,5 +1,13 @@
 # 🛡️ CyberGuard Forensic API
 
+![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
+![FastAPI](https://img.shields.io/badge/FastAPI-v0.95.0-green.svg)
+![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Status](https://img.shields.io/badge/Status-Operational-brightgreen.svg)
+
+
+
+
 **CyberGuard** is an enterprise-grade REST API designed for automated web forensics and phishing detection. It empowers security researchers and SOC analysts to perform deep audits on suspicious URLs, detect server-side evasion techniques, and analyze network infrastructure in real-time.
 
 ---
