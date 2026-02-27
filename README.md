@@ -6,6 +6,7 @@
 ![Status](https://img.shields.io/badge/Status-Operational-brightgreen.svg)
 
 
+![CyberGuard Banner](1772165549877.png)
 
 
 **CyberGuard** is an enterprise-grade REST API designed for automated web forensics and phishing detection. It empowers security researchers and SOC analysts to perform deep audits on suspicious URLs, detect server-side evasion techniques, and analyze network infrastructure in real-time.
