@@ -23,9 +23,9 @@ app = FastAPI(
     description="Enterprise-grade REST API for Automated Web Forensics & Phishing Detection.",
     version="4.1.0",
     contact={
-        "name": "Michael Elnegm",
-        "email": "maichaelmajdy@gmail.com",
-        "telegram": "@ebn_elnegm",
+        "name": "Mena Maged",
+        "email": "menamaged2254@gmail.com",
+        "telephone": "+201200925880",
     }
 )
 
