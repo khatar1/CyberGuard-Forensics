@@ -33,7 +33,7 @@ Ensure you have **Python 3.8+** installed on your system.
 ```bash
 # Clone the repository
 git clone [https://github.com/khatar1/CyberGuard-API.git](https://github.com/khatar1/CyberGuard-API.git)
-cd CyberGuard-API
+cd CyberGuard-Forensics
 
 # Install required dependencies
 pip install fastapi uvicorn requests tldextract pydantic
