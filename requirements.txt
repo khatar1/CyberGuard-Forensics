@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+requests
+tldextract
+pydantic
+pydantic-settings
+python-multipart
